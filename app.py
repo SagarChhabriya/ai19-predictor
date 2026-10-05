@@ -1,7 +1,7 @@
 import streamlit as st 
 import pickle
 
-st.header("AI19 Predictor")
+st.header("AI19 Salary Predictor")
 st.set_page_config(page_title="AI19-Predictor", page_icon="💵")
 
 
